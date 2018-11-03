@@ -14,4 +14,10 @@ Founders and Coders 15 - Update weekly / Something I learn
 - Team Project : Make a one page responsive website :muscle:
 <br>https://fac-15.github.io/CC/
 
+# Week2
+- What We Learn
+
+- Personal Stretch Goal
+
+- Team Project
 
