@@ -10,7 +10,7 @@ Founders and Coders 15 - Update weekly / Something I learn
 <br>CSS - Learn how to use grid
 <br>JS - Make a validator to check the valid form
   
-- Team Project : Make a one page responsive website
-https://fac-15.github.io/CC/
+- Team Project : Make a one page responsive website :muscle:
+<br>https://fac-15.github.io/CC/
 
 
