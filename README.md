@@ -6,9 +6,9 @@ Founders and Coders 15 - Update weekly / Something I learn
   
  
 - Personal Stretch Goal
-  CSS - Make a navbar
-  CSS - Learn how to use grid
-  JS - Make a validator to check the valid form
+<br>CSS - Make a navbar
+<br>CSS - Learn how to use grid
+<br>JS - Make a validator to check the valid form
   
 - Team Project : Make a one page responsive website
 https://fac-15.github.io/CC/
