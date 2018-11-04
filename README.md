@@ -1,7 +1,7 @@
 # FAC15 :sparkles:
 [Founders & Coders](https://foundersandcoders.com/) programme offers 16-week full-stack JavaScript course for 16 students. It is peer-led and project-based working in 4 teams. To apply to the programme, I needed to complete [course prerequisites](https://foundersandcoders.com/apply/prerequisites/) first. Afterwards, I invited to interview and offered places. The course for cohort 15 started on 29 October and will end 22 February 2019.
 
- First Portfolio : https://whooolia.github.io/First-Portfolio/
+:point_right: My first Portfolio builted as part of application : https://whooolia.github.io/First-Portfolio/
 
 # Week1
 - What We Learn
