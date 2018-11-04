@@ -4,7 +4,7 @@ Founders and Coders 15 - Update weekly / Something I learn
 
 # Week1
 - What We Learn
-  
+  Semantic HTML, Accessibility,CSS - BEM, Mobile-First, Responsive Web Design, Gitflow and use of github,Pair programming, Command Line, Regular Expressions
  
 - Personal Stretch Goal
 <br>CSS - Make a navbar
