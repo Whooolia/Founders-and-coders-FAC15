@@ -6,7 +6,7 @@
 
 # WEEK 1
 - What We Learn
-<br>Semantic HTML, Accessibility,CSS - BEM, Mobile-First, Responsive Web Design, Gitflow and use of github,Pair programming, Command Line, Regular Expressions
+<br>Semantic HTML, Accessibility,CSS - BEM, Mobile-First, Responsive Web Design, Gitflow and use of github, Pair programming, Command Line, Regular Expressions
  
 - Personal Stretch Goal
 <br>CSS - Make a navbar
@@ -17,7 +17,7 @@
 
 # WEEK 2
 - What We Learn
-<br> The Test-driven Development(TDD), Unit & Integration tests, Recatoring, Tape, Callback function, Array methods
+<br> The Test-driven Development(TDD), Unit & Integration tests, Recatoring, Tape, Callback function, Array methods, IIFE, DOM manipulation
 - Personal Stretch Goal
 
 - [Team Project](https://fac-15.github.io/CC_toDoList/) : To do list app(learning TDD rather than building an app)
