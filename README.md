@@ -19,6 +19,6 @@
 - What We Learn
 <br> The Test-driven Development(TDD), unit & integration tests, Recatoring, Tape, Callback function
 - Personal Stretch Goal
-<br>
-[Team Project](https://fac-15.github.io/CC_toDoList/) : To do list app(learning TDD rather than building an app)
+
+- [Team Project](https://fac-15.github.io/CC_toDoList/) : To do list app(learning TDD rather than building an app)
 
