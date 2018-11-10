@@ -13,7 +13,7 @@
 <br>CSS - Learn how to use grid
 <br>JS - Make a validator to check the valid form
   
-- [Team Project](https://fac-15.github.io/CC/) : Make a one page responsive website :muscle:
+- [**Team Project**](https://fac-15.github.io/CC/) : Make a one page responsive website :muscle:
 
 # WEEK 2
 - What We Learn
