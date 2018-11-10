@@ -5,10 +5,10 @@
 <br><br><br>
 
 # WEEK 1
-- What We Learn
+- **What We Learn**
 <br>Semantic HTML, Accessibility,CSS - BEM, Mobile-First, Responsive Web Design, Gitflow and use of github, Pair programming, Command Line, Regular Expressions
  
-- Personal Stretch Goal
+- **Personal Stretch Goal**
 <br>CSS - Make a navbar
 <br>CSS - Learn how to use grid
 <br>JS - Make a validator to check the valid form
