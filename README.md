@@ -4,7 +4,7 @@
 :heavy_check_mark: My first [Portfolio](https://whooolia.github.io/First-Portfolio/) builted as part of application
 <br><br><br>
 
-# Week1
+# WEEK 1
 - What We Learn
 <br>Semantic HTML, Accessibility,CSS - BEM, Mobile-First, Responsive Web Design, Gitflow and use of github,Pair programming, Command Line, Regular Expressions
  
@@ -15,7 +15,7 @@
   
 - [Team Project](https://fac-15.github.io/CC/) : Make a one page responsive website :muscle:
 
-# Week2
+# WEEK 2
 - What We Learn
 
 - Personal Stretch Goal
