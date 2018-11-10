@@ -13,18 +13,18 @@
 <br>CSS - Learn how to use grid
 <br>JS - Make a validator to check the valid form
   
-- [**Team Project**](https://fac-15.github.io/CC/) : Make a one page responsive website :muscle:
+- [Team Project](https://fac-15.github.io/CC/) : Make a one page responsive website :muscle:
 
 # WEEK 2
-- What We Learn
+- **What We Learn**
 <br> The Test-driven Development(TDD), Unit & Integration tests, Recatoring, Tape, Callback function, Array methods, IIFE, DOM manipulation
-- Personal Stretch Goal
+- **Personal Stretch Goal**
 
 - [Team Project](https://fac-15.github.io/CC_toDoList/) : To do list app(learning TDD rather than building an app)
 
 # WEEK 3
-- What We Learn
-- Personal Stretch Goal
+- **What We Learn**
+- **Personal Stretch Goal**
 - Team Project
 
 
