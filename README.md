@@ -18,8 +18,6 @@
 # WEEK 2
 - **What We Learn**
 <br> The Test-driven Development(TDD), Unit & Integration tests, Recatoring, Tape, Callback function, Array methods, IIFE, DOM manipulation
-- **Personal Stretch Goal**
-
 - [Team Project](https://fac-15.github.io/CC_toDoList/) : To do list app(learning TDD rather than building an app)
 
 # WEEK 3
