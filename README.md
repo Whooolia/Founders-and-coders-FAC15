@@ -4,7 +4,8 @@
 :heavy_check_mark: My first [Portfolio](https://whooolia.github.io/First-Portfolio/) builted as part of application
 <br><br><br>
 
-# The first eight weeks will provide you with the necessary building blocks for creating a web app:
+# Learning
+The first eight week
 
 | WEEK  | ACTIVITIY |
 | ------------- | ------------- |
