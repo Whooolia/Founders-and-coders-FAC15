@@ -8,14 +8,14 @@
 
 | WEEK  | ACTIVITIY |
 | ------------- | ------------- |
-| week 1  | Toolkit  |
-| week 2  | Testing  |
-| week 3  |  APIs| 
-| week 4  | Node.js 1/2|
-| week 5  | Node.js 2/2|
-| week 6  | PostgreSQL|
-| week 7  | Authentication|
-| week 8  | Express|
+|  week 1  | Toolkit   |
+|  week 2  | Testing   |
+|  week 3  |  APIs     | 
+|  week 4  | Node.js 1/2 |
+|  week 5  | Node.js 2/2 |
+|  week 6  | PostgreSQL |
+|  week 7  | Authentication |
+|  week 8  | Express |
 
 
 The second half of the curriculum is focused on longer projects and introduces you to client interaction:
