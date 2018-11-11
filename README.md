@@ -4,6 +4,20 @@
 :heavy_check_mark: My first [Portfolio](https://whooolia.github.io/First-Portfolio/) builted as part of application
 <br><br><br>
 
+# The first eight weeks will provide you with the necessary building blocks for creating a web app:
+|Week| Activitiy |
+|-|:--:| 
+|week 1| Toolkit| 
+|week 2|   Testing| 
+|week 3|  APIs| 
+|week 4 | Node.js 1/2|
+|week 5 | Node.js 2/2|
+|week 6 | PostgreSQL|
+|week 7 | Authentication|
+|week 8 | Express|
+The second half of the curriculum is focused on longer projects and introduces you to client interaction:
+
+Weeks 10-12 - self-selected project
 # WEEK 1
 - **What We Learn**
 <br>Semantic HTML, Accessibility,CSS - BEM, Mobile-First, Responsive Web Design, Gitflow and use of github, Pair programming, Command Line, Regular Expressions
