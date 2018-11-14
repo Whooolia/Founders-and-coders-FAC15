@@ -18,11 +18,8 @@ The first eight week
 |  week 7  | Authentication |
 |  week 8  | Express |
 
-
-The second half of the curriculum is focused on longer projects and introduces you to client interaction:
-
-
 Weeks 10-12 - self-selected project
+
 # WEEK 1
 - **What We Learn**
 <br>Semantic HTML, Accessibility,CSS - BEM, Mobile-First, Responsive Web Design, Gitflow and use of github, Pair programming, Command Line, Regular Expressions
@@ -41,6 +38,7 @@ Weeks 10-12 - self-selected project
 
 # WEEK 3
 - **What We Learn**
+<br> Flexbox, API
 - **Personal Stretch Goal**
 - Team Project
 
