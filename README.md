@@ -18,7 +18,6 @@ The first eight week
 |  week 7  | Authentication |
 |  week 8  | Express |
 |  Weeks 10-12  | self-selected project |
-<br><br>
 
 # WEEK 1
 - **What We Learn**
