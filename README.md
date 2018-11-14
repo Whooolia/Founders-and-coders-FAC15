@@ -17,8 +17,7 @@ The first eight week
 |  week 6  | PostgreSQL |
 |  week 7  | Authentication |
 |  week 8  | Express |
-
-Weeks 10-12 - self-selected project
+|  Weeks 10-12  | self-selected project |
 <br><br>
 
 # WEEK 1
