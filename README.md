@@ -29,6 +29,7 @@ The first eight week
 <br>JS - Make a validator to check the valid form
   
 - [Team Project](https://fac-15.github.io/CC/) : Make a one page responsive website :muscle:
+![Altweek1](https://user-images.githubusercontent.com/36998110/48662677-36713300-ea7d-11e8-8799-c3c8a30ed7db.png)
 
 # WEEK 2
 - **What We Learn**
