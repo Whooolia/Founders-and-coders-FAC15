@@ -39,7 +39,7 @@ The first eight week
 
 # WEEK 3
 - **What We Learn**
-<br> Flexbox, API, XMLHttp requests, XHR, JSON, Software Architecture, 
+<br> Flexbox, API, XMLHttp requests, XHR, JSON, Software Architecture
 - **Personal Stretch Goal**
 - [Team Project](https://fac-15.github.io/hungryish-app/) : Using movie, recipe and Giphy API  
 
