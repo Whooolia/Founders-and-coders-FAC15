@@ -29,12 +29,13 @@ The first eight week
 <br>JS - Make a validator to check the valid form
   
 - [Team Project](https://fac-15.github.io/CC/) : Make a one page responsive website :muscle: <br><br>
-![Altweek1](https://user-images.githubusercontent.com/36998110/48662677-36713300-ea7d-11e8-8799-c3c8a30ed7db.png)
+![Alt week1](https://user-images.githubusercontent.com/36998110/48662677-36713300-ea7d-11e8-8799-c3c8a30ed7db.png)
 
 # WEEK 2
 - **What We Learn**
 <br> The Test-driven Development(TDD), Unit & Integration tests, Recatoring, Tape, Callback function, Array methods, IIFE, DOM manipulation
-- [Team Project](https://fac-15.github.io/CC_toDoList/) : To do list app(learning TDD rather than building an app)
+- [Team Project](https://fac-15.github.io/CC_toDoList/) : To do list app(learning TDD rather than building an app) <br><br>
+![Alt week2](https://user-images.githubusercontent.com/36998110/48662731-ff4f5180-ea7d-11e8-90df-49123ad08517.png)
 
 # WEEK 3
 - **What We Learn**
