@@ -9,7 +9,7 @@ The first eight week
 
 | WEEK  | ACTIVITIY |
 | ------------- | ------------- |
-|  [week 1](#week-2-:-testing)  | Toolkit   |
+|  [week 1](#week-2--testing)  | Toolkit   |
 |  week 2  | Testing   |
 |  week 3  |  APIs     | 
 |  week 4  | Node.js 1/2 |
@@ -20,7 +20,7 @@ The first eight week
 |  weeks 10-12  | self-selected project |
 
 --- 
-# WEEK 1 : Github
+## WEEK 1 : Github
 - **What We Learn**
 <br>Semantic HTML, Accessibility,CSS - BEM, Mobile-First, Responsive Web Design, Gitflow and use of github, Pair programming, Command Line, Regular Expressions
  
@@ -33,7 +33,7 @@ The first eight week
 ![Alt week1](https://user-images.githubusercontent.com/36998110/48662677-36713300-ea7d-11e8-8799-c3c8a30ed7db.png)
 ---
 
-### WEEK 2 : Testing
+## WEEK 2 : Testing
 - **What We Learn**
 <br> The Test-driven Development(TDD), Unit & Integration tests, Recatoring, Tape, Callback function, Array methods, IIFE, DOM manipulation
 - **Personal Stretch Goal**
