@@ -8,8 +8,8 @@
 # :pencil2: Learning
 Each week introduces a new topic
 
-| WEEK  | ACTIVITIY | WEEK  | ACTIVITIY |
-| ------ | -------- | ------ | -------- |
+|  WEEK &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |  ACTIVITIY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |  WEEK   |  ACTIVITIY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |
+| --------- | ----------- | --------- | ----------- |
 |  [week 1](#week-1--github)  | Toolkit   |  week 6  | PostgreSQL |
 |  [week 2](#week-2--testing)  | Testing   |  week 7  | Authentication |
 |  [week 3](#week-3--apis)  |  APIs     |  week 8   |Express  |
