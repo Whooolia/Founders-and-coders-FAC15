@@ -9,9 +9,9 @@ The first eight week
 
 | WEEK  | ACTIVITIY |
 | ------------- | ------------- |
-|  [week 1](#week-2--testing)  | Toolkit   |
-|  week 2  | Testing   |
-|  week 3  |  APIs     | 
+|  [week 1](#week-1--github)  | Toolkit   |
+|  [week 2](#week-2--testing)  | Testing   |
+|  [week 3](#week-3--apis)  |  APIs     | 
 |  week 4  | Node.js 1/2 |
 |  week 5  | Node.js 2/2 |
 |  week 6  | PostgreSQL |
@@ -42,7 +42,7 @@ The first eight week
 ![Alt week2](https://user-images.githubusercontent.com/36998110/48662731-ff4f5180-ea7d-11e8-90df-49123ad08517.png)
 ---
 
-# WEEK 3 : APIS
+# WEEK 3 : APIs
 - **What We Learn**
 <br> Flexbox, API, XMLHttp requests, XHR, JSON, Software Architecture
 - **Personal Stretch Goal**
