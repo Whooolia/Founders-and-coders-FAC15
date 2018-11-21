@@ -13,7 +13,7 @@ Each week introduces a new topic
 |  [week 1](#week-1--github)  | Toolkit   |
 |  [week 2](#week-2--testing)  | Testing   |
 |  [week 3](#week-3--apis)  |  APIs     | 
-|  [week 4](#week-4--node.js)  | Node.js 1/2 |
+|  [week 4](#week-4--nodejs)  | Node.js 1/2 |
 |  week 5  | Node.js 2/2 |
 |  week 6  | PostgreSQL |
 |  week 7  | Authentication |
