@@ -47,7 +47,7 @@ Every day has a mixed of learning coding and soft-skills.
 <br> The Test-driven Development(TDD), Unit & Integration tests, Recatoring, Tape, Callback function, Array methods, IIFE, DOM manipulation
 - **Personal Stretch Goal**
 <br>Be familiar with Array method
-- [Team Project](https://fac-15.github.io/CC_toDoList/) : To do list app(learning TDD rather than building an app)
+- [Team Project](https://fac-15.github.io/CC_toDoList/) : To do list app(learning TDD rather than building an app) :ballot_box_with_check:
 - A [GitHub repo](https://github.com/fac-15/CC) ready for code review <br><br>
 ![Alt week2](https://user-images.githubusercontent.com/36998110/48662731-ff4f5180-ea7d-11e8-90df-49123ad08517.png)
 ---
@@ -56,7 +56,7 @@ Every day has a mixed of learning coding and soft-skills.
 - **What We Learn**
 <br> Flexbox, API, XMLHttp requests, XHR, JSON, Software Architecture
 - **Personal Stretch Goal**
-- **Team Project** : Using movie, recipe and Giphy API 
+- **Team Project** : Using movie, recipe and Giphy API :movie_camera: :hamburger:
 - A [GitHub repo](https://github.com/fac-15/hungryish-app/tree/staging) ready for code review <br><br> 
 ![Alt week3](https://user-images.githubusercontent.com/36998110/48866230-094cb980-edca-11e8-97a9-a39f35b02323.png)
 
@@ -66,7 +66,7 @@ Every day has a mixed of learning coding and soft-skills.
 - **What We Learn**
 <br> Learn how to use Node.js, Node server basics, Module design pattern and server file structure, Back-end testing, Basic ES6 syntax
 - **Personal Stretch Goal**
-- Team Project : Autocomplete website/widget - find your favortie beers!
+- Team Project : Autocomplete website/widget - find your favortie beers! :beer:
 - A [GitHub repo](https://github.com/fac-15/DRINKIO) ready for code review <br><br> 
 
 
