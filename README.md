@@ -9,7 +9,7 @@ The first eight week
 
 | WEEK  | ACTIVITIY |
 | ------------- | ------------- |
-|  [week 1](#WEEK-2)  | Toolkit   |
+|  [week 1](#WEEK-2-:-Testing)  | Toolkit   |
 |  week 2  | Testing   |
 |  week 3  |  APIs     | 
 |  week 4  | Node.js 1/2 |
