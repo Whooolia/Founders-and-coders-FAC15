@@ -46,7 +46,7 @@ The first eight week
 - **What We Learn**
 <br> Flexbox, API, XMLHttp requests, XHR, JSON, Software Architecture
 - **Personal Stretch Goal**
-- [Team Project](https://user-images.githubusercontent.com/36998110/48866121-99d6ca00-edc9-11e8-820f-8f4ed8e999e3.png) : Using movie, recipe and Giphy API  
+- Team Project : Using movie, recipe and Giphy API <br><br> 
 ![Alt week3](https://user-images.githubusercontent.com/36998110/48866230-094cb980-edca-11e8-97a9-a39f35b02323.png)
 
 
