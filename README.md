@@ -6,7 +6,7 @@
 <br><br>
 
 # :pencil2: Learning
-The first eight week
+Each week introduces a new topic
 
 | WEEK  | ACTIVITIY |
 | ------------- | ------------- |
@@ -19,6 +19,16 @@ The first eight week
 |  week 7  | Authentication |
 |  week 8  | Express |
 |  weeks 10-12  | self-selected project |
+
+Every day has a mixed of learning coding and soft-skills.
+
+| DAY  | ACTIVITIY |
+| ------------- | ------------- |
+|  Monday  | Workshops, Client workshops   |
+|  Tuesday  | Workshops, Research   |
+|  Wednesday  |  Workshops, Team project, Guest speaker    | 
+|  Thursday | Team project |
+|  Friday  | Code review, Team project presentations, Stop-Go-Continue (SGC), Guest speaker |
 
 --- 
 # WEEK 1 : Github
@@ -47,7 +57,17 @@ The first eight week
 - **What We Learn**
 <br> Flexbox, API, XMLHttp requests, XHR, JSON, Software Architecture
 - **Personal Stretch Goal**
-- Team Project : Using movie, recipe and Giphy API <br><br> 
+- **Team Project** : Using movie, recipe and Giphy API <br><br> 
 ![Alt week3](https://user-images.githubusercontent.com/36998110/48866230-094cb980-edca-11e8-97a9-a39f35b02323.png)
+
+---
+
+# WEEK 4 : Node.js
+- **What We Learn**
+<br> Learn how to use Node.js, Node server basics, Module design pattern and server file structure, Back-end testing, Basic ES6 syntax
+- **Personal Stretch Goal**
+- Team Project : Autocomplete website/widget - find your favortie beers! <br><br> 
+
+
 
 
