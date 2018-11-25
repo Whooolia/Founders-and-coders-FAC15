@@ -13,8 +13,8 @@ Each week introduces a new topic
 |  [week 1](#week-1--github)  | Toolkit   |  week 6  | PostgreSQL |
 |  [week 2](#week-2--testing)  | Testing   |  week 7  | Authentication |
 |  [week 3](#week-3--apis)  |  APIs     |  week 8   |Express  |
-|  [week 4](#week-4--nodejs)  | Node.js 1/2 | weeks 10-12  | self-selected project |
-|  [week 5](#week-5--nodejs)  | Node.js 2/2 |    |      |
+|  [week 4](#week-4--nodejs-server-making-front-end-api-requests)  | Node.js 1/2 | weeks 10-12  | self-selected project |
+|  [week 5](#week-5--nodejs-server-making-back-end-api-requests)  | Node.js 2/2 |    |      |
 
 
 Every day has a mixed of learning coding and soft-skills.
