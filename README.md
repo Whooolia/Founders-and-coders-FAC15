@@ -28,63 +28,68 @@ Every day has a mixed of learning coding and soft-skills.
 |  Friday  | Code review, Team project presentations, Stop-Go-Continue (SGC), Guest speaker |
 
 --- 
+
 # WEEK 1 : Github 
 :small_blue_diamond: **What We Learn**
-<br>Semantic HTML, Accessibility,CSS - BEM, Mobile-First, Responsive Web Design, Gitflow and use of github, Pair programming, Command Line, Regular Expressions
+- Semantic HTML, Accessibility,CSS - BEM, Mobile-First, Responsive Web Design, Gitflow and use of github, Pair programming, Command Line, Regular Expressions
  
 :small_orange_diamond: **Personal Stretch Goal**
-<br>CSS - Make a navbar
-<br>CSS - Learn how to use grid
-<br>JS - Make a validator to check the valid form
+- CSS - Make a navbar
+- CSS - Learn how to use grid
+- JS - Make a validator to check the valid form
 
 :bulb: **Team Project : Be familiar with Git & Github** :octocat:
-- [Team Project](https://fac-15.github.io/CC/) : Make a one page responsive website :muscle: 
+- [Team Project](https://fac-15.github.io/CC/) : Make a one page responsive website 
 - A [GitHub repo](https://github.com/fac-15/CC_toDoList) ready for code review <br><br>
 ![Alt week1](https://user-images.githubusercontent.com/36998110/48662677-36713300-ea7d-11e8-8799-c3c8a30ed7db.png)
+
 ---
 
 # WEEK 2 : Testing
 :small_blue_diamond: **What We Learn**
-<br> The Test-driven Development(TDD), Unit & Integration tests, Recatoring, Tape, Callback function, Array methods, IIFE, DOM manipulation
+- The Test-driven Development(TDD), Unit & Integration tests, Recatoring, Tape, Callback function, Array methods, IIFE, DOM manipulation
 
 :small_orange_diamond: **Personal Stretch Goal**
-<br>Be familiar with Array method <br>
+- Be familiar with Array method
 
-:bulb: **Team Project : Be familiar with Git & Github**
+:bulb: **Team Project : Unit testing and TDD for client-side code**
 - [Team Project](https://fac-15.github.io/CC_toDoList/) : To do list app(learning TDD rather than building an app) :ballot_box_with_check:
 - A [GitHub repo](https://github.com/fac-15/CC) ready for code review <br><br>
 ![Alt week2](https://user-images.githubusercontent.com/36998110/48662731-ff4f5180-ea7d-11e8-90df-49123ad08517.png)
+
 ---
 
 # WEEK 3 : APIs
 :small_blue_diamond: **What We Learn**
-<br> Flexbox, API, XMLHttp requests, XHR, JSON, Software Architecture
+- Flexbox, API, XMLHttp requests, XHR, JSON, Software Architecture
 
 :small_orange_diamond: **Personal Stretch Goal**
 
-:bulb: **Team Project : Be familiar with Git & Github**
+:bulb: **Team Project : A simple web app includes two APIs and use the results to update the DOM**
 - **Team Project** : Using movie, recipe and Giphy API :movie_camera: :hamburger:
 - A [GitHub repo](https://github.com/fac-15/hungryish-app/tree/staging) ready for code review <br><br> 
 ![Alt week3](https://user-images.githubusercontent.com/36998110/48866230-094cb980-edca-11e8-97a9-a39f35b02323.png)
 
 ---
 
-# WEEK 4 : Node.js
+# WEEK 4 : Node.js server making front-end API requests
 :small_blue_diamond: **What We Learn**
-<br> Learn how to use Node.js, Node server basics, Module design pattern and server file structure, Back-end testing, Basic ES6 syntax
+- Learn how to use Node.js, Node server basics, Module design pattern and server file structure, Back-end testing, Basic ES6 syntax, heroku
 
 :small_orange_diamond: **Personal Stretch Goal**
 
-:bulb: **Team Project : Be familiar with Git & Github**
-- **Team Project** : Autocomplete website/widget - find your favortie beers! :beer:
+:bulb: **Team Project : Autocomplete website/widget**
+- **Team Project** : Find your favortie beers! :beer:
 - A [GitHub repo](https://github.com/fac-15/DRINKIO) ready for code review <br><br> 
 ![Alt week4](https://user-images.githubusercontent.com/36998110/48977703-31bd0800-f097-11e8-8fe0-cbd93bec775d.png)
 
 ---
 
-# WEEK 5 : Node.js
+# WEEK 5 : Node.js server making back-end API requests
 :small_blue_diamond: **What We Learn**
+- 
 :small_orange_diamond: **Personal Stretch Goal**
+- 
 :bulb: **Team Project : Be familiar with Git & Github**
 - **Team Project**
 - A GitHub repo ready for code review
