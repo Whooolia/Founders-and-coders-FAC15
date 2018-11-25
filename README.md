@@ -14,7 +14,7 @@ Each week introduces a new topic
 |  [week 2](#week-2--testing)  | Testing   |  week 7  | Authentication |
 |  [week 3](#week-3--apis)  |  APIs     |  week 8   |Express  |
 |  [week 4](#week-4--nodejs)  | Node.js 1/2 | weeks 10-12  | self-selected project |
-|  week 5  | Node.js 2/2 |    |      |
+|  [week 5](#week-5--nodejs)  | Node.js 2/2 |    |      |
 
 
 Every day has a mixed of learning coding and soft-skills.
@@ -66,9 +66,18 @@ Every day has a mixed of learning coding and soft-skills.
 - **What We Learn**
 <br> Learn how to use Node.js, Node server basics, Module design pattern and server file structure, Back-end testing, Basic ES6 syntax
 - **Personal Stretch Goal**
-- Team Project : Autocomplete website/widget - find your favortie beers! :beer:
+- **Team Project** : Autocomplete website/widget - find your favortie beers! :beer:
 - A [GitHub repo](https://github.com/fac-15/DRINKIO) ready for code review <br><br> 
+![Alt week4](https://user-images.githubusercontent.com/36998110/48977703-31bd0800-f097-11e8-8fe0-cbd93bec775d.png)
 
+---
+
+# WEEK 5 : Node.js
+- **What We Learn**
+<br> 
+- **Personal Stretch Goal**
+- **Team Project** :
+- A GitHub repo ready for code review <br><br> 
 
 
 
