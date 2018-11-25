@@ -74,10 +74,9 @@ Every day has a mixed of learning coding and soft-skills.
 
 # WEEK 5 : Node.js
 - **What We Learn**
-<br> 
 - **Personal Stretch Goal**
-- **Team Project** :
-- A GitHub repo ready for code review <br><br> 
+- **Team Project**
+- A GitHub repo ready for code review
 
 
 
