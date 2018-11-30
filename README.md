@@ -87,12 +87,10 @@ Every day has a mixed of learning coding and soft-skills.
 
 # WEEK 5 : Node.js server making back-end API requests
 :small_blue_diamond: **What We Learn**
-- 
 :small_orange_diamond: **Personal Stretch Goal**
-- 
 :bulb: **Team Project : Be familiar with Git & Github**
 - **Team Project**
-- A GitHub repo ready for code review
+- A [GitHub repo](https://github.com/fac-15/RankMyRequest) ready for code review <br><br>
 
 
 
