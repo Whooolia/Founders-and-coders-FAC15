@@ -30,10 +30,10 @@ Every day has a mixed of learning coding and soft-skills.
 --- 
 
 # WEEK 1 : Github 
-:small_blue_diamond: **What We Learn**
+:gem: **What We Learn**
 - Semantic HTML, Accessibility,CSS - BEM, Mobile-First, Responsive Web Design, Gitflow and use of github, Pair programming, Command Line, Regular Expressions
  
-:small_orange_diamond: **Personal Stretch Goal**
+:seedling: **Personal Stretch Goal**
 - CSS - Make a navbar
 - CSS - Learn how to use grid
 - JS - Make a validator to check the valid form
@@ -46,10 +46,10 @@ Every day has a mixed of learning coding and soft-skills.
 ---
 
 # WEEK 2 : Testing
-:small_blue_diamond: **What We Learn**
+:gem: **What We Learn**
 - The Test-driven Development(TDD), Unit & Integration tests, Recatoring, Tape, Callback function, Array methods, IIFE, DOM manipulation
 
-:small_orange_diamond: **Personal Stretch Goal**
+:seedling: **Personal Stretch Goal**
 - Be familiar with Array method
 
 :bulb: **Team Project : Unit testing and TDD for client-side code**
@@ -60,10 +60,10 @@ Every day has a mixed of learning coding and soft-skills.
 ---
 
 # WEEK 3 : APIs
-:small_blue_diamond: **What We Learn**
+:gem: **What We Learn**
 - Flexbox, API, XMLHttp requests, XHR, JSON, Software Architecture
 
-:small_orange_diamond: **Personal Stretch Goal**
+:seedling: **Personal Stretch Goal**
 
 :bulb: **Team Project : A simple web app includes two APIs and use the results to update the DOM**
 - **Team Project** : Using movie, recipe and Giphy API :movie_camera: :hamburger:
@@ -73,10 +73,10 @@ Every day has a mixed of learning coding and soft-skills.
 ---
 
 # WEEK 4 : Node.js server making front-end API requests
-:small_blue_diamond: **What We Learn**
+:gem: **What We Learn**
 - Learn how to use Node.js, Node server basics, Module design pattern and server file structure, Back-end testing, Basic ES6 syntax, heroku
 
-:small_orange_diamond: **Personal Stretch Goal**
+:seedling: **Personal Stretch Goal**
 
 :bulb: **Team Project : Autocomplete website/widget**
 - **Team Project** : Find your favortie beers! :beer:
@@ -86,11 +86,10 @@ Every day has a mixed of learning coding and soft-skills.
 ---
 
 # WEEK 5 : Node.js server making back-end API requests
-:small_blue_diamond: **What We Learn**
-:small_orange_diamond: **Personal Stretch Goal**
+:gem: **What We Learn**
+:seedling: **Personal Stretch Goal**
 :bulb: **Team Project : Be familiar with Git & Github**
 - **Team Project**
 - A [GitHub repo](https://github.com/fac-15/RankMyRequest) ready for code review <br><br>
-
-
+![Alt week5](https://user-images.githubusercontent.com/36998110/49328813-5e2cc480-f56e-11e8-946f-704b991aaef7.png)
 
