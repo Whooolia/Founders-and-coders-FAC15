@@ -88,7 +88,9 @@ Every day has a mixed of learning coding and soft-skills.
 # WEEK 5 : Node.js server making back-end API requests
 :gem: **What We Learn**
 - API calls from the back-end using the Request module, Test the routes of your server using Supertest, Continuous integration with Travis, Read and Write Streams in Node, Buffers in Node
-:seedling: **Personal Stretch Goal** <br><br>
+
+:seedling: **Personal Stretch Goal** 
+
 :bulb: **Team Project : CoTech Hackathon - Build a component for the CoTech website**
 - Project brief :  API calls from the back-end and testing the server using Supertest
 - A [GitHub repo](https://github.com/fac-15/RankMyRequest) ready for code review <br><br>
