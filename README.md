@@ -92,8 +92,7 @@ Every day has a mixed of learning coding and soft-skills.
 :seedling: **Personal Stretch Goal** 
 
 :bulb: **Team Project : CoTech Hackathon - Build a component for the CoTech website**
-- Project brief :  API calls from the back-end and testing the server using Supertest
-- [Team Project](https://safe-temple-44463.herokuapp.com/)
+- [Team Project](https://safe-temple-44463.herokuapp.com/) : API calls from the back-end and testing the server using Supertest
 - A [GitHub repo](https://github.com/fac-15/RankMyRequest) ready for code review <br><br>
 ![Alt week5](https://user-images.githubusercontent.com/36998110/49328813-5e2cc480-f56e-11e8-946f-704b991aaef7.png)
 
