@@ -66,7 +66,7 @@ Every day has a mixed of learning coding and soft-skills.
 :seedling: **Personal Stretch Goal**
 
 :bulb: **Team Project : A simple web app includes two APIs and use the results to update the DOM**
-- **Team Project** : Using movie, recipe and Giphy API :movie_camera: :hamburger:
+- Team Project : Using movie, recipe and Giphy API :movie_camera: :hamburger:
 - A [GitHub repo](https://github.com/fac-15/hungryish-app/tree/staging) ready for code review <br><br> 
 ![Alt week3](https://user-images.githubusercontent.com/36998110/48866230-094cb980-edca-11e8-97a9-a39f35b02323.png)
 
@@ -79,7 +79,7 @@ Every day has a mixed of learning coding and soft-skills.
 :seedling: **Personal Stretch Goal**
 
 :bulb: **Team Project : Autocomplete website/widget**
-- **Team Project** : Find your favortie beers! :beer:
+- Team Project : Find your favortie beers! :beer:
 - A [GitHub repo](https://github.com/fac-15/DRINKIO) ready for code review <br><br> 
 ![Alt week4](https://user-images.githubusercontent.com/36998110/48977703-31bd0800-f097-11e8-8fe0-cbd93bec775d.png)
 
@@ -87,9 +87,10 @@ Every day has a mixed of learning coding and soft-skills.
 
 # WEEK 5 : Node.js server making back-end API requests
 :gem: **What We Learn**
-:seedling: **Personal Stretch Goal**
-:bulb: **Team Project : Be familiar with Git & Github**
-- **Team Project**
+- API calls from the back-end using the Request module, Test the routes of your server using Supertest, Continuous integration with Travis, Read and Write Streams in Node, Buffers in Node
+:seedling: **Personal Stretch Goal** <br><br>
+:bulb: **Team Project : CoTech Hackathon - Build a component for the CoTech website**
+- Project brief :  API calls from the back-end and testing the server using Supertest
 - A [GitHub repo](https://github.com/fac-15/RankMyRequest) ready for code review <br><br>
 ![Alt week5](https://user-images.githubusercontent.com/36998110/49328813-5e2cc480-f56e-11e8-946f-704b991aaef7.png)
 
