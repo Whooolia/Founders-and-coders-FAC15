@@ -12,7 +12,7 @@ Each week introduces a new topic
 
 |  WEEK &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |  ACTIVITIY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |  WEEK   |  ACTIVITIY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |
 | --------- | ----------- | --------- | ----------- |
-|  [week 1](#week-1--github)  | Toolkit   |  week 6  | PostgreSQL |
+|  [week 1](#week-1--github)  | Toolkit   |  week 6(#week-6--databases)  | PostgreSQL |
 |  [week 2](#week-2--testing)  | Testing   |  week 7  | Authentication |
 |  [week 3](#week-3--apis)  |  APIs     |  week 8   |Express  |
 |  [week 4](#week-4--nodejs-server-making-front-end-api-requests)  | Node.js 1/2 | weeks 10-12  | self-selected project |
@@ -95,6 +95,25 @@ Every day has a mixed of learning coding and soft-skills.
 
 :bulb: **Team Project : CoTech Hackathon - Build a component for the CoTech website**
 - [Team Project](https://safe-temple-44463.herokuapp.com/) : API calls from the back-end and testing the server using Supertest
+:no_good: Unfortunatley, it was an temporary API for just Hackathon, so that its no longer bring any data.
 - A [GitHub repo](https://github.com/fac-15/RankMyRequest) ready for code review <br><br>
 ![Alt week5](https://user-images.githubusercontent.com/36998110/49328813-5e2cc480-f56e-11e8-946f-704b991aaef7.png)
+
+---
+
+# WEEK 6 : Databases
+:gem: **What We Learn**
+- 
+
+:seedling: **Personal Stretch Goal** 
+
+:bulb: **Team Project : Build a guidebook to Finsbury park**
+- [Team Project](https://safe-temple-44463.herokuapp.com/) : A website storing data on a Heroku-hosted database
+- A [GitHub repo](https://github.com/fac-15/FAC_guidebook) ready for code review <br><br>
+![Alt week6-1](https://user-images.githubusercontent.com/36998110/49685829-e0733680-fae2-11e8-90be-5681918f0883.png)
+![Alt week6-2](https://user-images.githubusercontent.com/36998110/49685839-16181f80-fae3-11e8-867a-36ef2e982246.png)
+
+
+
+
 
