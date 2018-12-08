@@ -5,6 +5,8 @@
 :heavy_check_mark: [Calculate](https://whooolia.github.io/Calculator/) builted as part of pre-course
 <br><br>
 
+![FAC15 PICTURE](FAC15.png)
+      
 # :pencil2: Learning
 Each week introduces a new topic
 
