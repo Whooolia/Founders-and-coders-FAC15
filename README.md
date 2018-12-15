@@ -122,10 +122,9 @@ Every day has a mixed of learning coding and soft-skills.
 :seedling: **Personal Stretch Goal** 
 
 :bulb: **Team Project : A guidebook to Finsbury park :heavy_plus_sign: USER ACCOUNTS**
-- Team Project
-      - Signup form validation on the client side (unmatching passwords, patterns)
-      - Test for server side and database seperately
-      - Check for cookie to see if user is logged in, and direct to the proper page
+- Signup form validation on the client side (unmatching passwords, patterns)
+- Test for server side and database seperately
+- Check for cookie to see if user is logged in, and direct to the proper page
 - A [GitHub repo](https://github.com/fac-15/FAC_guidebook2.0) ready for code review <br><br>
 
 
