@@ -113,6 +113,20 @@ Every day has a mixed of learning coding and soft-skills.
 ![Alt week6-1](https://user-images.githubusercontent.com/36998110/49685829-e0733680-fae2-11e8-90be-5681918f0883.png)
 ![Alt week6-2](https://user-images.githubusercontent.com/36998110/49685839-16181f80-fae3-11e8-867a-36ef2e982246.png)
 
+---
+
+# WEEK 7 : Authenication
+:gem: **What We Learn**
+- Password management(hashing/bcryptjs), Cookie management(setting them/deleting them), Session management (signing cookies/JWTs),  Secure routing, Promises
+
+:seedling: **Personal Stretch Goal** 
+
+:bulb: **Team Project : A guidebook to Finsbury park :heavy_plus_sign: USER ACCOUNTS**
+- Team Project
+      - Signup form validation on the client side (unmatching passwords, patterns)
+      - Test for server side and database seperately
+      - Check for cookie to see if user is logged in, and direct to the proper page
+- A [GitHub repo](https://github.com/fac-15/FAC_guidebook2.0) ready for code review <br><br>
 
 
 
