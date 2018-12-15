@@ -128,7 +128,8 @@ Every day has a mixed of learning coding and soft-skills.
 - A [GitHub repo](https://github.com/fac-15/FAC_guidebook2.0) ready for code review <br><br>
 ![Alt week7-1](https://user-images.githubusercontent.com/36998110/50047056-5b6dbb80-00a6-11e9-8580-0b93f8f2b596.png)
 ![Alt week7-2](https://user-images.githubusercontent.com/36998110/50047055-5a3c8e80-00a6-11e9-83ee-2ee1fd480137.png)
-![Alt week7-3](https://user-images.githubusercontent.com/36998110/50047057-5d377f00-00a6-11e9-8d3b-a8cccaef859a.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/36998110/50047057-5d377f00-00a6-11e9-8d3b-a8cccaef859a.png" alt="week7-3"/></p>
 
 
 
