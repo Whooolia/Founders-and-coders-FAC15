@@ -130,6 +130,21 @@ Every day has a mixed of learning coding and soft-skills.
 ![Alt week7-2](https://user-images.githubusercontent.com/36998110/50047055-5a3c8e80-00a6-11e9-83ee-2ee1fd480137.png)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/36998110/50047057-5d377f00-00a6-11e9-8d3b-a8cccaef859a.png" alt="week7-3"/></p>
+  
+  ---
+
+# WEEK 8 : Express
+:gem: **What We Learn**
+- Express middleware, Understand the purpose of templating, Use templating with Handlebars, Testing of Express.js routes, Integrate a PostgreSQL database with an Express app, Deploy an Express app to Heroku
+
+:seedling: **Personal Stretch Goal** 
+
+:bulb: **Team Project : Shopping list**
+- A website built with Express.js and Handlebars.js
+- Add/view to a history of user's shopping list (product, quantity, an estimate of price)
+- 3 main sections - Welcome User page / Shopping List form page / Current shopping list page
+- A [GitHub repo](https://github.com/fac-15/JACC) ready for code review <br><br>
+![Alt week8](https://user-images.githubusercontent.com/36998110/49685829-e0733680-fae2-11e8-90be-5681918f0883.png)
 
 
 
