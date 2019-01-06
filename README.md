@@ -144,7 +144,7 @@ Every day has a mixed of learning coding and soft-skills.
 - Add/view to a history of user's shopping list (product, quantity, an estimate of price)
 - 3 main sections - Welcome User page / Shopping List form page / Current shopping list page
 - A [GitHub repo](https://github.com/fac-15/JACC) ready for code review <br><br>
-![Alt week8](https://user-images.githubusercontent.com/36998110/49685829-e0733680-fae2-11e8-90be-5681918f0883.png)
-
-
+![Alt week8-1](https://user-images.githubusercontent.com/36998110/50738556-37952580-11cd-11e9-870a-9e08233dfee3.png)
+![Alt week8-2](https://user-images.githubusercontent.com/36998110/50738566-51cf0380-11cd-11e9-8873-b145d039ecb0.png)
+![Alt week8-3](https://user-images.githubusercontent.com/36998110/50738600-9bb7e980-11cd-11e9-844c-87f272a2b8d8.png)
 
