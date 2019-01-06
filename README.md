@@ -10,18 +10,18 @@
 # :pencil2: Learning
 Each week introduces a new topic
 
-|  WEEK &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |  ACTIVITIY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |  WEEK   |  ACTIVITIY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |
+|  WEEK &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |  ACTIVITIY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |  WEEK   |  ACTIVITY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |
 | --------- | ----------- | --------- | ----------- |
 |  [week 1](#week-1--github)  | Toolkit   |  [week 6](#week-6--databases)  | PostgreSQL |
 |  [week 2](#week-2--testing)  | Testing   |  [week 7](#week-7--authenication)  | Authentication |
-|  [week 3](#week-3--apis)  |  APIs     |  week 8   |Express  |
+|  [week 3](#week-3--apis)  |  APIs     |  [week 8](#week-8--express)   |Express  |
 |  [week 4](#week-4--nodejs-server-making-front-end-api-requests)  | Node.js 1/2 | weeks 10-12  | self-selected project |
-|  [week 5](#week-5--nodejs-server-making-back-end-api-requests)  | Node.js 2/2 |    |      |
+|  [week 5](#week-5--nodejs-server-making-back-end-api-requests)  | Node.js 2/2 | weeks 13   | React  |
 
 
 Every day has a mixed of learning coding and soft-skills.
 
-| DAY  | ACTIVITIY |
+| DAY  | ACTIVITY |
 | ------------- | ------------- |
 |  Monday  | Workshops, Client workshops   |
 |  Tuesday  | Workshops, Research   |
