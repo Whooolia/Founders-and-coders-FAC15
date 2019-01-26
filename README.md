@@ -31,14 +31,11 @@ Every day has a mixed of learning coding and soft-skills.
 
 --- 
 
-# Projects
-The second half of the course is focused on two 3-week projects addressing a specific real-world problem:
+# :rocket: Projects
+The second half of the course is focused on two 3-week projects addressing a specific real-world problem and building a product over two sprints
 
-- Student project: Created an application to provide a starting point for young people loking to get involved with climate change activism. Alongside my role
-as one of four developers, I also took a QA role, merging PRs and
-ensuring code quality, database testing, and giving helpful feedback
-where necessary.
-- Client project: An app for medical students to practice for the OSCE (objective structured clinical examination), a soft-skill exam where students are graded on their interation with actors posing as patinets. Click here to read more about my client project: OSCEBossKey
+- Student project: Created an application to provide a starting point for young people looking to get involved with climate change activism. Read more about my student project: [Snowflakes](https://github.com/fac-15/snowflakes)
+- Client project: Created a tech product to ensure verification between charitable organisations and suppliers of food waste, allowing quicker and more secure access to surplus food. Click here to read more about my client project: 
 
 # WEEK 1 : Github 
 :gem: **What We Learn**
