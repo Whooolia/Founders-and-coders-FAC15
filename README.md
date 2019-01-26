@@ -33,7 +33,7 @@ Every day has a mixed of learning coding and soft-skills.
 
 
 # :rocket: Projects
-The second half of the course is focused on two 3-week projects addressing a specific real-world problem and building a product over two sprints
+The second half of the course is focused on two 3-week projects addressing a specific real-world problem, building a product over two sprints, and using **Design Thinking and Agile techniques** to build a 3 week prototype.
 
 ## 1. Student project : [Snowflakes](https://snowflake-ca.herokuapp.com/)
 - Created an application to provide a starting point for young people looking to get involved with climate change activism. [Click](https://github.com/fac-15/snowflakes) here to read more about my student project.
