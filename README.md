@@ -31,6 +31,15 @@ Every day has a mixed of learning coding and soft-skills.
 
 --- 
 
+# Projects
+The second half of the course is focused on two 3-week projects addressing a specific real-world problem:
+
+- Student project: Created an application to provide a starting point for young people loking to get involved with climate change activism. Alongside my role
+as one of four developers, I also took a QA role, merging PRs and
+ensuring code quality, database testing, and giving helpful feedback
+where necessary.
+- Client project: An app for medical students to practice for the OSCE (objective structured clinical examination), a soft-skill exam where students are graded on their interation with actors posing as patinets. Click here to read more about my client project: OSCEBossKey
+
 # WEEK 1 : Github 
 :gem: **What We Learn**
 - Semantic HTML, Accessibility,CSS - BEM, Mobile-First, Responsive Web Design, Gitflow and use of github, Pair programming, Command Line, Regular Expressions
