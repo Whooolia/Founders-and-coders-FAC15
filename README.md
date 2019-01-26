@@ -158,4 +158,4 @@ The second half of the course is focused on two 3-week projects addressing a spe
 ![Alt week1](https://user-images.githubusercontent.com/36998110/48662677-36713300-ea7d-11e8-8799-c3c8a30ed7db.png)
 
 
-## Thank you for reading! :blue_heart:
+## :blue_heart::yellow_heart::heart: Thank you for reading! :heart::yellow_heart::blue_heart:
