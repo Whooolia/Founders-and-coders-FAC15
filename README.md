@@ -31,6 +31,7 @@ Every day has a mixed of learning coding and soft-skills.
 
 --- 
 
+
 # :rocket: Projects
 The second half of the course is focused on two 3-week projects addressing a specific real-world problem and building a product over two sprints
 
@@ -41,7 +42,9 @@ The second half of the course is focused on two 3-week projects addressing a spe
 ## 2. Client project : The Real Junk Food Project
 - Created a tech product to ensure verification between charitable organisations and suppliers of food waste, allowing quicker and more secure access to surplus food. Click here to read more about my client project.
 - **Tech Stack : React | Node | Express | Handlebars | PostgreSQL | Jest | CSS | SASS | JWT Authentication**
-      
+
+
+--- 
 # WEEK 1 : Github 
 :gem: **What We Learn**
 - Semantic HTML, Accessibility,CSS - BEM, Mobile-First, Responsive Web Design, Gitflow and use of github, Pair programming, Command Line, Regular Expressions
