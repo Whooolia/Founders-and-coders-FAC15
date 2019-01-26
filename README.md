@@ -35,11 +35,11 @@ Every day has a mixed of learning coding and soft-skills.
 # :rocket: Projects
 The second half of the course is focused on two 3-week projects addressing a specific real-world problem, building a product over two sprints, and using **Design Thinking and Agile techniques** to build a 3 week prototype.
 
-## 1. Student project : [Snowflakes](https://snowflake-ca.herokuapp.com/)
+### 1. Student project : [Snowflakes](https://snowflake-ca.herokuapp.com/)
 - Created an application to provide a starting point for young people looking to get involved with climate change activism. [Click](https://github.com/fac-15/snowflakes) here to read more about my student project.
 - **Tech Stack : Node | Express | Handlebars | PostgreSQL | Jest | CSS | SASS**
 
-## 2. Client project : The Real Junk Food Project
+### 2. Client project : The Real Junk Food Project
 - Created a tech product to ensure verification between charitable organisations and suppliers of food waste, allowing quicker and more secure access to surplus food. Click here to read more about my client project.
 - **Tech Stack : React | Node | Express | Handlebars | PostgreSQL | Jest | CSS | SASS | JWT Authentication**
 
