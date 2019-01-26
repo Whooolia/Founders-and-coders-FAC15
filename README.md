@@ -15,7 +15,7 @@ Each week introduces a new topic
 |  [week 1](#week-1--github)  | Toolkit   |  [week 6](#week-6--databases)  | PostgreSQL |
 |  [week 2](#week-2--testing)  | Testing   |  [week 7](#week-7--authenication)  | Authentication |
 |  [week 3](#week-3--apis)  |  APIs     |  [week 8](#week-8--express)   |Express  |
-|  [week 4](#week-4--nodejs-server-making-front-end-api-requests)  | Node.js 1/2 | weeks 10-12  | self-selected project |
+|  [week 4](#week-4--nodejs-server-making-front-end-api-requests)  | Node.js 1/2 | [weeks 10-12](#rocket-projects)  | self-selected project |
 |  [week 5](#week-5--nodejs-server-making-back-end-api-requests)  | Node.js 2/2 | weeks 13   | React  |
 
 
@@ -35,8 +35,11 @@ Every day has a mixed of learning coding and soft-skills.
 The second half of the course is focused on two 3-week projects addressing a specific real-world problem and building a product over two sprints
 
 - Student project: Created an application to provide a starting point for young people looking to get involved with climate change activism. Read more about my student project: [Snowflakes](https://github.com/fac-15/snowflakes)
-- Client project: Created a tech product to ensure verification between charitable organisations and suppliers of food waste, allowing quicker and more secure access to surplus food. Click here to read more about my client project: 
+- Tech Stack : Node | Express | Handlebars | PostgreSQL | Jest | CSS | SASS
 
+- Client project: Created a tech product to ensure verification between charitable organisations and suppliers of food waste, allowing quicker and more secure access to surplus food. Click here to read more about my client project: 
+- Tech Stack : React | Node | Express | Handlebars | PostgreSQL | Jest | CSS | SASS | JWT Authentication
+      
 # WEEK 1 : Github 
 :gem: **What We Learn**
 - Semantic HTML, Accessibility,CSS - BEM, Mobile-First, Responsive Web Design, Gitflow and use of github, Pair programming, Command Line, Regular Expressions
