@@ -50,7 +50,17 @@ The second half of the course is focused on two 3-week projects addressing a spe
 - Created a tech product to ensure verification between charitable organisations and suppliers of food waste, allowing quicker and more secure access to surplus food. Click here to read more about my client project.
 - **Tech Stack : React | Node | Express | Handlebars | PostgreSQL | Jest | CSS | SASS | JWT Authentication**
 
- ---
+---
+
+# WEEK 13 : React
+:gem: **What We Learn**
+- ES6 classes, destructuring and this,  React API, JSX, Functional & class-based components, Component state, Lifecycle methodsTesting React components, bundlers(Parcel)
+
+:bulb: **Team Project : Game - pop your face**
+- A [GitHub repo](https://github.com/fac-15/pop-your-face) ready for code review <br><br>
+![Alt week13]()
+
+---
 
 # WEEK 8 : Express
 :gem: **What We Learn**
