@@ -58,7 +58,6 @@ The second half of the course is focused on two 3-week projects addressing a spe
 
 :bulb: **Team Project : Game - pop your face**
 - A [GitHub repo](https://github.com/fac-15/pop-your-face) ready for code review <br><br>
-![Alt week13]()
 
 ---
 
